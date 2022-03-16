@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.5.2",
+    "@openzeppelin/truffle-upgrades": "^1.13.0",
+    "dotenv": "^16.0.0",
+    "openzeppelin-solidity": "^4.5.0",
+    "truffle-plugin-verify": "^0.5.21",
+    "truffle-privatekey-provider": "^1.5.0"
+  }
+}
